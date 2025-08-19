@@ -1,18 +1,18 @@
 # SDS_AI_2025
 
-# 8월 14일 온라인 녹화 강의 (미국 출장)
- - 강의노트: sds_ai_lecture08.pdf
- - 수업 영상: https://youtu.be/tGu7NaXCnnU
-
-# ~~8월 21일~~ -> 8월 28일 기말고사 (Project Report)
-- 일시: ~~8.21~~ -> 8.28 (목) 수업 시간 중 **12주차에 정상 진행**
+# 8월 28일 기말고사 (Project Report)
+- 일시: 8.28 (목) 수업 시간 중 **12주차에 정상 진행**
 - 학생 발표로 진행: 각자 **8분** 이내 (hard limit) 발표, 2분 Q/A
 - PPT로 작성, 페이지 제한 없음 (상세 자료 등 appendix로 구성)
 - 중간고사 발표자료를 기반으로, 중복되는 부분은 짧게만 발표하고, 중간고사 대비 메소드 등 수정된 부분 (있다면)과 실험결과/분석, discussion 위주로 진행.
 - PPT 파일 제출: **8.27 저녁 9시**까지 sangkyun@korea.ac.kr로 PDF 제출
   - 메일제목: [삼성DS] 중간고사
   - 첨부 파일명: 이름_연구제목.pdf
-- 평가 (총 15점): methodology (5점), experiments (5점), discussion (5점)
+- 평가 (총 30 점): motivation (5점), problem definition (5점), background (5점), methodology (5점), experiments (5점), discussion (5점)
+
+# 8월 14일 온라인 녹화 강의 (미국 출장)
+ - 강의노트: sds_ai_lecture08.pdf
+ - 수업 영상: https://youtu.be/tGu7NaXCnnU
 
 # 중간고사 (Project Proposal)
 - 일시: 7.24 (목) 수업 시간 중
@@ -26,5 +26,4 @@
 - PPT 파일 제출: **7.23 저녁 9시**까지 sangkyun@korea.ac.kr로 PDF 제출
   - 메일제목: [삼성DS] 중간고사
   - 첨부 파일명: 이름_연구제목.pdf
-- 평가 (총15점): motivation (5점), problem definition (5점), background (5점)
 - AI를 전혀 사용하지 않는 주제나, 소속 부서에서 보시기에 너무 관련없다 하실 것 같은 주제는 피하는 것이 좋습니다.
